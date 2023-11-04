@@ -1,0 +1,15 @@
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\bin\Debug\net7.0\Algoritma Sorulari Factorial.exe
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\bin\Debug\net7.0\Algoritma Sorulari Factorial.deps.json
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\bin\Debug\net7.0\Algoritma Sorulari Factorial.runtimeconfig.json
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\bin\Debug\net7.0\Algoritma Sorulari Factorial.dll
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\bin\Debug\net7.0\Algoritma Sorulari Factorial.pdb
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.csproj.AssemblyReference.cache
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.AssemblyInfoInputs.cache
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.AssemblyInfo.cs
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.csproj.CoreCompileInputs.cache
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.dll
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\refint\Algoritma Sorulari Factorial.dll
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.pdb
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\Algoritma Sorulari Factorial.genruntimeconfig.cache
+D:\Gencay Yildiz C#\Algoritma Sorulari Factorial\Algoritma Sorulari Factorial\obj\Debug\net7.0\ref\Algoritma Sorulari Factorial.dll
